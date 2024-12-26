@@ -1,9 +1,9 @@
 
-# 👋 Hola, soy Sergio Canacue España
+👋 Hola, soy Sergio Canacue España
 
 Soy un desarrollador apasionado con un gran interés en la tecnología y aprendizaje continuo. Disfruto resolviendo problemas complejos y colaborando con otros para crear soluciones de software efectivas.
 
-## Tecnologías que uso
+
 ```json
 const aboutMe = {
     code: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
@@ -23,5 +23,4 @@ const aboutMe = {
     currentOccupation: ["Estudiante de Análisis y Desarrollo de Software - Desarrollador Full-Stack"]
 };
 
-👀 Intereses
 
