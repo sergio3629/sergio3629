@@ -1,6 +1,5 @@
 👋 Hola, soy Sergio Canacue España
 
-<!--
 Soy un desarrollador apasionado con un gran interés en la tecnología y el aprendizaje continuo. Disfruto resolviendo problemas complejos y colaborando con otros para crear soluciones de software increíbles.
 
 const aboutMe = {
@@ -31,4 +30,4 @@ JavaScript Avanzado: Mejorando mis habilidades en frameworks y bibliotecas moder
 Computación en la Nube: Obteniendo experiencia práctica con servicios en la nube.
 Ciberseguridad: Explorando conceptos fundamentales de ciberseguridad, incluyendo la protección de sistemas y redes, criptografía, y la gestión de vulnerabilidades. Estoy aprendiendo sobre las mejores prácticas para asegurar aplicaciones web y la implementación de medidas de seguridad efectivas para proteger los datos y la privacidad de los usuarios.
 
--->
+
