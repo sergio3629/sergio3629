@@ -4,7 +4,8 @@
 Soy un desarrollador apasionado con un gran interés en la tecnología y aprendizaje continuo. Disfruto resolviendo problemas complejos y colaborando con otros para crear soluciones de software efectivas.
 
 ```json
-   code: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
+const aboutMe = {
+    code: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
     technologies: {
         FrontEnd: {
             js: ["React", "React-Native"],
@@ -19,4 +20,5 @@ Soy un desarrollador apasionado con un gran interés en la tecnología y aprendi
         OS: ["Ubuntu Server"]
     },
     currentOccupation: ["Estudiante de Análisis y Desarrollo de Software - Desarrollador Full-Stack"]
+};
 
