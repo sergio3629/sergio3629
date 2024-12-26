@@ -1,6 +1,5 @@
 # 👋 Hola, soy Sergio Canacue España
-Soy un desarrollador apasionado con un gran interés en la tecnología y el aprendizaje continuo. Disfruto resolviendo problemas complejos y colaborando con otros para crear soluciones de software increíbles.
-
+Soy un Desarrollador con un fuerte enfoque en la tecnología y el aprendizaje continuo. Me dedico a crear soluciones de software efectivas y a mejorar mis habilidades técnicas en el proceso.
 ```javascript
 const aboutMe = {
     code: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
