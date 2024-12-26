@@ -27,7 +27,6 @@ const aboutMe = {
 
 ### 🌱 Actualmente Aprendiendo
 - **JavaScript Avanzado**: Mejorando mis habilidades en frameworks y bibliotecas modernas de JavaScript.
-- **Python Avanzado**: Mejorando mis habilidades en frameworks y bibliotecas modernas de JavaScript.
 - **Hacking Ético**: Explorando técnicas de penetración y fundamentos de seguridad para proteger sistemas y aplicaciones web.
 
 ### 📫 Cómo Contactarme
