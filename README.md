@@ -27,8 +27,8 @@ const aboutMe = {
 
 ### 🌱 Actualmente Aprendiendo
 - **JavaScript Avanzado**: Mejorando mis habilidades en frameworks y bibliotecas modernas de JavaScript.
-- **Computación en la Nube**: Obteniendo experiencia práctica con servicios en la nube.
-- **Ciberseguridad**: Explorando conceptos fundamentales de ciberseguridad, incluyendo la protección de sistemas y redes, criptografía, y la gestión de vulnerabilidades. Estoy aprendiendo sobre las mejores prácticas para asegurar aplicaciones web y la implementación de medidas de seguridad efectivas para proteger los datos y la privacidad de los usuarios.
+- **Python Avanzado**: Mejorando mis habilidades en frameworks y bibliotecas modernas de JavaScript.
+- **Hacking Ético**: Explorando técnicas de penetración y fundamentos de seguridad para proteger sistemas y aplicaciones web.
 
 ### 📫 Cómo Contactarme
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sergiocanacue0@gmail.com)
